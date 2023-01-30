@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "name":"Merlot Roble",
+       "description":"Descripcion 1",
+       "price":850
+    },
+    {
+       "id":2,
+       "name":"Corbeau Roble",
+       "description":"Descripcion 2",
+       "price":850
+    },
+    {
+       "id":3,
+       "name":"Malbec Roble",
+       "description":"Descripcion 3",
+       "price":850
+    },
+    {
+       "id":4,
+       "name":"Malbec Numerado",
+       "description":"Descripcion 4",
+       "price":1100
+    },
+    {
+       "id":5,
+       "name":"Blend Prestige",
+       "description":"Descripcion 5",
+       "price":1400
+    },
+    {
+       "id":6,
+       "name":"Pinot Noir Prestige",
+       "description":"Descripcion 6",
+       "price":1400
+    }
+ ]
